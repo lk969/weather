@@ -34,7 +34,8 @@
         @layer utilities {
             .card-shadow {
                 box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-            }
+            }[index.html](https://github.com/user-attachments/files/24409513/index.html)
+
             .transition-all-300 {
                 transition: all 0.3s ease;
             }
